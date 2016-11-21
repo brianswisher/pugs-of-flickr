@@ -1,0 +1,15 @@
+{
+  "name": "pugs-of-flickr",
+  "version": "1.0.0",
+  "description": "http://jrsinclair.com/articles/2016/one-weird-trick-that-will-change-the-way-you-code-forever-javascript-tdd/#what",
+  "main": "flickr-fetcher-spec.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R nyan ./flickr-fetcher-spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
