@@ -1,7 +1,7 @@
 {
   "name": "pugs-of-flickr",
   "version": "1.0.0",
-  "description": "http://jrsinclair.com/articles/2016/one-weird-trick-that-will-change-the-way-you-code-forever-javascript-tdd/#what",
+  "description": "ONE WEIRD TRICK THAT WILL CHANGE THE WAY YOU CODE FOREVER: JAVASCRIPT TDD",
   "main": "flickr-fetcher-spec.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha -R nyan ./flickr-fetcher-spec.js"
